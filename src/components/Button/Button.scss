@@ -1,0 +1,16 @@
+.ant-btn {
+
+	text-transform: uppercase;
+
+	&.ant-btn-link {
+		text-transform: none;
+	}
+
+	.btn-custom-icon-left {
+		margin-right: 7px;
+	}
+
+	.btn-custom-icon-right {
+		margin-left: 7px;
+	}
+}
